@@ -1,0 +1,10 @@
+Angular Day Quiz:
+
+why did you choose to learn angular?
+what call frames is chrome DevTools going to skip for more readable stack traces?
+what is the flag set in the component decorator to make the component standalone?
+How does the Angular Material DatePicker add built-in accessibility to communicate the current date?
+You can provide an "UntypedFormControl" where a typed "FormControl" is expeted:
+NgModules are now_______________?
+Values in a TYped form are nullable by default because:____________?
+what is the current status of standalone component APIs?
